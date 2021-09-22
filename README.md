@@ -1,2 +1,2 @@
-# javascriptPromotion
-来自https://bigfrontend.dev/的问题，每天一道，快乐加倍
+# javascript提升题
+练习前端编码问题， 准备工作面试。所有题目均来自与https://bigfrontend.dev/
